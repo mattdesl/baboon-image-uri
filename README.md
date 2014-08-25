@@ -17,6 +17,8 @@ img.onload = function() {
 img.src = baboon
 ```
 
+![img](https://raw.githubusercontent.com/mattdesl/baboon-image-uri/master/baboon.png)
+
 ## Usage
 
 [![NPM](https://nodei.co/npm/baboon-image-uri.png)](https://nodei.co/npm/baboon-image-uri/)

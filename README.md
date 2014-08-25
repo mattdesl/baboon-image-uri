@@ -4,7 +4,9 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-Baboon test image (128x128) in the form of a base64-encoded Data URI string. This is useful for quick visual demos where you just want to get an image on screen via CSS or the `Image` object. 
+![img](https://raw.githubusercontent.com/mattdesl/baboon-image-uri/master/baboon.png)
+
+Baboon test image (128x128) in the form of a PNG base64-encoded Data URI string. This is useful for quick visual demos where you just want to get an image on screen via CSS or the `Image` object. 
 
 ```js
 var baboon = require('baboon-image-uri')
@@ -16,8 +18,6 @@ img.onload = function() {
 }
 img.src = baboon
 ```
-
-![img](https://raw.githubusercontent.com/mattdesl/baboon-image-uri/master/baboon.png)
 
 ## Usage
 

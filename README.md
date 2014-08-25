@@ -9,6 +9,7 @@
 Baboon test image (128x128) in the form of a PNG base64-encoded Data URI string. This is useful for quick visual demos where you just want to get an image on screen via CSS or the `Image` object. 
 
 ```js
+//gives us a string
 var baboon = require('baboon-image-uri')
 
 //append the image to the body when ready
@@ -23,6 +24,8 @@ img.src = baboon
 
 [![NPM](https://nodei.co/npm/baboon-image-uri.png)](https://nodei.co/npm/baboon-image-uri/)
 
-## License
+## Credits
 
-MIT, see [LICENSE.md](http://github.com/mattdesl/baboon-image-uri/blob/master/LICENSE.md) for details.
+Image is public domain.
+
+Rest of module is MIT, see [LICENSE.md](http://github.com/mattdesl/baboon-image-uri/blob/master/LICENSE.md) for details.

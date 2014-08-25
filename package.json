@@ -1,0 +1,48 @@
+{
+  "name": "baboon-image-uri",
+  "version": "1.0.0",
+  "description": "baboon test image as base64 data URI",
+  "main": "baboon.js",
+  "license": "MIT",
+  "author": "Matt DesLauriers <dave.des@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "domready": "^1.0.6",
+    "tape": "~2.13.2"
+  },
+  "scripts": {
+    "test": "testling"
+  },
+  "testling": {
+    "files": "test.js",
+    "browsers": [
+      "ie/6..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/baboon-image-uri.git"
+  },
+  "homepage": "https://github.com/mattdesl/baboon-image-uri",
+  "bugs": {
+    "url": "https://github.com/mattdesl/baboon-image-uri/issues"
+  },
+  "keywords": [
+    "baboon",
+    "image",
+    "test",
+    "data",
+    "uri",
+    "datauri",
+    "url",
+    "image",
+    "pixels"
+  ]
+}

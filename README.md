@@ -2,7 +2,7 @@
 
 # baboon-image-uri
 
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 ![img](https://raw.githubusercontent.com/mattdesl/baboon-image-uri/master/baboon.png)
 
